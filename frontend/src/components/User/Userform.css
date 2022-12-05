@@ -1,0 +1,14 @@
+.user_form{
+    margin-top: 37px;
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    
+}
+.form_data{
+    width: 25%;
+}
+.submit_btn{
+    position: relative;
+    left: 147px;
+}
